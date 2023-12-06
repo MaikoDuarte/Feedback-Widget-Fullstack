@@ -65,4 +65,4 @@ A aplicação Web poderá ser acessada aqui: https://widget-deploy.vercel.app/
 ## :mailbox_with_no_mail: Contatos
 
 Email: maiko.akagui.duarte@gmail.com <br>
-Linkedin: www.linkedin.com/in/maiko-akagui-duarte-253649129
+Linkedin: www.linkedin.com/in/maiko-akagui-duarte
