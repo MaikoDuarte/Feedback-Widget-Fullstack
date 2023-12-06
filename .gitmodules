@@ -1,0 +1,6 @@
+[submodule "Feedback-Widget-NodeJS"]
+	path = Feedback-Widget-NodeJS
+	url = https://github.com/MaikoDuarte/Feedback-Widget-NodeJS.git
+[submodule "Feedback-Widget-ReactJS"]
+	path = Feedback-Widget-ReactJS
+	url = https://github.com/MaikoDuarte/Feedback-Widget-ReactJS.git
